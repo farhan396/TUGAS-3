@@ -1,0 +1,9 @@
+https://drive.google.com/file/d/1u8PpHUWN2N8AB6rYdGdF9aLqRaCDszEq/view?usp=drivesdk
+pseudocode
+print("     *")
+print("    *.*")
+print("   *.*.*")
+print("  *.*.*.*")
+print(" * *.*.*.*")
+print("*.*.*.*.*.*")
+print("",end="")
