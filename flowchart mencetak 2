@@ -1,0 +1,11 @@
+https://drive.google.com/file/d/10PeNVWg5fVZTpUVeLINrqsFgXT-2jkWr/view?usp=drivesdk
+pseudocode
+print(" ********")
+print("  *******")
+print("   ******")
+print("    *****")
+print("     ****      ***       **")
+print("        *")   
+print("\n")          
+for i in range(1):
+    print("*",end="")
